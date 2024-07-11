@@ -1,0 +1,4 @@
+Películas y animales tienen un grado de 8, y una cardinalidad de 10, pues tienen 8 atributos y 10 tuplas.
+Canciones tiene un grado de 4 y una cardinalidad de 10.
+Coches tiene un grado de 9 y una cardinalidad de 10.
+Equiposfutbol tiene un grado de 6 y una cardinalidad de 10.
